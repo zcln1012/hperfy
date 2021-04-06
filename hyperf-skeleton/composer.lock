@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ea68fb18c45b40b8c0c45c3da2eeb763",
+    "content-hash": "5010cbd403e8ccd1d65949685e86e215",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -1326,16 +1326,16 @@
         },
         {
             "name": "hyperf/db-connection",
-            "version": "v2.1.11",
+            "version": "v2.1.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hyperf/db-connection.git",
-                "reference": "5f71e1d8455b35d80d2940627452d9b1c7f375a1"
+                "reference": "410e3e9b9f11875fdd671e567ade01753d60e8ef"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hyperf/db-connection/zipball/5f71e1d8455b35d80d2940627452d9b1c7f375a1",
-                "reference": "5f71e1d8455b35d80d2940627452d9b1c7f375a1",
+                "url": "https://api.github.com/repos/hyperf/db-connection/zipball/410e3e9b9f11875fdd671e567ade01753d60e8ef",
+                "reference": "410e3e9b9f11875fdd671e567ade01753d60e8ef",
                 "shasum": ""
             },
             "require": {
@@ -1379,7 +1379,7 @@
                 "hyperf",
                 "php"
             ],
-            "time": "2021-03-17T07:14:03+00:00"
+            "time": "2021-04-02T11:24:08+00:00"
         },
         {
             "name": "hyperf/di",
@@ -1926,16 +1926,16 @@
         },
         {
             "name": "hyperf/json-rpc",
-            "version": "v2.1.9",
+            "version": "v2.1.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hyperf/json-rpc.git",
-                "reference": "b92b3a37ff884a2a9be4824cdde0bf09141587a0"
+                "reference": "bdf826c82f5b4a1273f477c958603a8d13e20ae0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hyperf/json-rpc/zipball/b92b3a37ff884a2a9be4824cdde0bf09141587a0",
-                "reference": "b92b3a37ff884a2a9be4824cdde0bf09141587a0",
+                "url": "https://api.github.com/repos/hyperf/json-rpc/zipball/bdf826c82f5b4a1273f477c958603a8d13e20ae0",
+                "reference": "bdf826c82f5b4a1273f477c958603a8d13e20ae0",
                 "shasum": ""
             },
             "require": {
@@ -1987,7 +1987,7 @@
                 "php",
                 "swoole"
             ],
-            "time": "2021-03-02T11:07:31+00:00"
+            "time": "2021-04-04T02:15:05+00:00"
         },
         {
             "name": "hyperf/load-balancer",
@@ -2149,16 +2149,16 @@
         },
         {
             "name": "hyperf/model-cache",
-            "version": "v2.1.11",
+            "version": "v2.1.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hyperf/model-cache.git",
-                "reference": "52ebc7e23e8a62e6fd377a691dd26bc6e9ad7632"
+                "reference": "90f38deb273a6b043cf21a842079c836e21f6e0c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hyperf/model-cache/zipball/52ebc7e23e8a62e6fd377a691dd26bc6e9ad7632",
-                "reference": "52ebc7e23e8a62e6fd377a691dd26bc6e9ad7632",
+                "url": "https://api.github.com/repos/hyperf/model-cache/zipball/90f38deb273a6b043cf21a842079c836e21f6e0c",
+                "reference": "90f38deb273a6b043cf21a842079c836e21f6e0c",
                 "shasum": ""
             },
             "require": {
@@ -2204,7 +2204,7 @@
                 "model-cache",
                 "php"
             ],
-            "time": "2021-03-19T07:23:49+00:00"
+            "time": "2021-04-02T11:24:08+00:00"
         },
         {
             "name": "hyperf/model-listener",
@@ -2493,16 +2493,16 @@
         },
         {
             "name": "hyperf/rpc-client",
-            "version": "v2.1.9",
+            "version": "v2.1.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hyperf/rpc-client.git",
-                "reference": "2aabf60f338957e77c37b6fba953cbb046c8b5c0"
+                "reference": "ef563f9c32992f7c0ec796a8acd26a2b0a644fd2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hyperf/rpc-client/zipball/2aabf60f338957e77c37b6fba953cbb046c8b5c0",
-                "reference": "2aabf60f338957e77c37b6fba953cbb046c8b5c0",
+                "url": "https://api.github.com/repos/hyperf/rpc-client/zipball/ef563f9c32992f7c0ec796a8acd26a2b0a644fd2",
+                "reference": "ef563f9c32992f7c0ec796a8acd26a2b0a644fd2",
                 "shasum": ""
             },
             "require": {
@@ -2552,7 +2552,7 @@
                 "rpc-client",
                 "swoole"
             ],
-            "time": "2021-03-08T01:09:58+00:00"
+            "time": "2021-03-31T09:52:08+00:00"
         },
         {
             "name": "hyperf/rpc-server",
@@ -2796,16 +2796,16 @@
         },
         {
             "name": "hyperf/utils",
-            "version": "v2.1.12",
+            "version": "v2.1.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hyperf/utils.git",
-                "reference": "2870efc554b87c1c5f2c67cf1f353a97ae48fa1e"
+                "reference": "d1db8392599e06973939befd32eb2c0b956df350"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hyperf/utils/zipball/2870efc554b87c1c5f2c67cf1f353a97ae48fa1e",
-                "reference": "2870efc554b87c1c5f2c67cf1f353a97ae48fa1e",
+                "url": "https://api.github.com/repos/hyperf/utils/zipball/d1db8392599e06973939befd32eb2c0b956df350",
+                "reference": "d1db8392599e06973939befd32eb2c0b956df350",
                 "shasum": ""
             },
             "require": {
@@ -2859,7 +2859,7 @@
                 "swoole",
                 "utils"
             ],
-            "time": "2021-03-26T14:19:19+00:00"
+            "time": "2021-04-04T02:15:05+00:00"
         },
         {
             "name": "jcchavezs/zipkin-opentracing",
@@ -6468,16 +6468,16 @@
         },
         {
             "name": "phpstan/phpstan",
-            "version": "0.12.82",
+            "version": "0.12.83",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan.git",
-                "reference": "3920f0fb0aff39263d3a4cb0bca120a67a1a6a11"
+                "reference": "4a967cec6efb46b500dd6d768657336a3ffe699f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/3920f0fb0aff39263d3a4cb0bca120a67a1a6a11",
-                "reference": "3920f0fb0aff39263d3a4cb0bca120a67a1a6a11",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/4a967cec6efb46b500dd6d768657336a3ffe699f",
+                "reference": "4a967cec6efb46b500dd6d768657336a3ffe699f",
                 "shasum": ""
             },
             "require": {
@@ -6520,7 +6520,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-03-19T06:08:17+00:00"
+            "time": "2021-04-03T15:35:45+00:00"
         },
         {
             "name": "phpunit/php-code-coverage",
